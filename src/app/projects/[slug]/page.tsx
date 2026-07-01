@@ -24,12 +24,12 @@ export async function generateMetadata({ params }: RouteParams): Promise<Metadat
 
   if (!project) {
     return {
-      title: 'Project Not Found | Rizky Agung Portfolio',
+      title: 'Project Not Found | Aldyan Satya Fausta Portfolio',
     };
   }
 
   return {
-    title: `${project.title} | Rizky Agung Portfolio`,
+    title: `${project.title} | Aldyan Satya Fausta Portfolio`,
     description: project.summary.en,
   };
 }

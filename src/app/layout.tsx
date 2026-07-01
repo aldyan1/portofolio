@@ -17,11 +17,11 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Rizky Agung | Portfolio",
-  description: "Personal portfolio website of Rizky Agung - Fullstack Developer & IoT Engineer. Built using Next.js with a luxurious Dark Gold theme.",
+  title: "Aldyan Satya Fausta | Portfolio",
+  description: "Personal portfolio website of Aldyan Satya Fausta - Fullstack Developer & IoT Engineer. Built using Next.js with a luxurious Dark Gold theme.",
   openGraph: {
-    title: "Rizky Agung | Portfolio",
-    description: "Personal portfolio website of Rizky Agung - Fullstack Developer & IoT Engineer. Built using Next.js with a luxurious Dark Gold theme.",
+    title: "Aldyan Satya Fausta | Portfolio",
+    description: "Personal portfolio website of Aldyan Satya Fausta - Fullstack Developer & IoT Engineer. Built using Next.js with a luxurious Dark Gold theme.",
     type: "website",
   }
 };
